@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1501000308 source:c:\users\obayedprodhan\desktop\temp-ib\c-adv\tic-tac-toe\funcs.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1501000628 source:c:\users\obayedprodhan\desktop\temp-ib\c-adv\tic-tac-toe\main.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+
+1501000181 source:c:\users\obayedprodhan\desktop\temp-ib\c-adv\tic-tac-toe\pvsp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1501000704 source:c:\users\obayedprodhan\desktop\temp-ib\c-adv\tic-tac-toe\pvc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
+1501000628 source:c:\users\obayedprodhan\desktop\temp-ib\c-adv\tic-tac-toe-v2\main.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+
+1502125835 source:c:\users\obayedprodhan\desktop\temp-ib\c-adv\tic-tac-toe-v2\pvc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
+1501000181 source:c:\users\obayedprodhan\desktop\temp-ib\c-adv\tic-tac-toe-v2\pvsp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1502125793 source:c:\users\obayedprodhan\desktop\temp-ib\c-adv\tic-tac-toe-v2\funcs.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
